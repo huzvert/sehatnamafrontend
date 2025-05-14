@@ -16,6 +16,8 @@ Modern medical record system UI where doctors and patients connect, records live
 - React
 - Tailwind CSS
 - Axios
+- Typescript 
+
 
 📦 How to Run:
 ```bash
